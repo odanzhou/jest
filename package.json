@@ -1,0 +1,29 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "hello jest",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CosSalt/jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CosSalt/jest/issues"
+  },
+  "homepage": "https://github.com/CosSalt/jest#readme",
+  "dependencies": {
+    "webpack": "^4.39.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^24.8.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^24.8.0",
+    "regenerator-runtime": "^0.13.3"
+  }
+}
